@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Svania
 
-<!--
-**Svania-riCw/Svania-riCw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;CS+Student;AI+Learner;Quant+Explorer)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+🎓 CS Student  
+💻 Learning: AI / Algorithms / Quant  
+🌱 Currently improving coding & problem-solving  
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Svania-riCw&show_icons=true)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svania-riCw&layout=compact)
+
+---
+
+## 🔥 Streak Stats
+
+![streak](https://streak-stats.demolab.com/?user=Svania-riCw)
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 AI Project: Coming soon  
+- 🔹 Algorithm Practice (LeetCode)  
+- 🔹 Quant Research  
+
+---
+
+## 📫 Contact
+
+- Email: limx2024@shanghaitech.edu.cn
+
+---
+
+✨ *Keep coding, keep growing!*
