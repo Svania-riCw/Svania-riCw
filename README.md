@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+with+curiosity.;Training+logic+and+intuition.;Exploring+AI%2C+algorithms%2C+and+quant.;Always+learning%2C+always+shipping.&center=true&width=640&height=44&color=38BDF8&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+with+curiosity.;Training+logic+and+intuition.;Exploring+AI%2C+algorithms%2C+and+quant.;Always+learning%2C+always+shipping.&center=true&width=640&height=44&color=14B8A6&vCenter=true&pause=1000&size=22&cursor=true&cursorChar=_%7C&cursorColor=22C55E" alt="Typing SVG" />
 </p>
 
 <p align="center">
