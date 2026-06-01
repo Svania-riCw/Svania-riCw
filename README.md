@@ -17,32 +17,28 @@
   <img src="https://komarev.com/ghpvc/?username=Svania-riCw&style=flat-square&color=0ea5e9" alt="Profile Views" />
 </p>
 
-```text
-> init developer_profile
-> role: student / builder / explorer
-> focus: AI + algorithms + quant
-> status: leveling up every day
-```
+<p align="center">
+  <strong>Student, builder, and explorer.</strong><br/>
+  Working at the intersection of <strong>AI</strong>, <strong>algorithms</strong>, and <strong>quantitative thinking</strong>.
+</p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">
+  <sub>curious mind • clean code • steady progress</sub>
+</p>
 
-## `whoami`
+## Who I Am
 
 - 🎓 CS Student with a strong interest in intelligent systems
 - 💻 Currently learning AI, algorithms, systems, and quantitative research
 - 🌱 Focused on writing cleaner code and building sharper problem-solving habits
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-## `featured_projects`
+## Featured Projects
 
 - 🤖 AI Project: coming soon
 - 🧠 Algorithm Practice: LeetCode and problem-solving drills
 - 📈 Quant Research: exploring models, data, and strategy ideas
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-## `github_analytics`
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Svania-riCw&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=D1D5DB&icon_color=22C55E" alt="GitHub Stats" />
@@ -53,9 +49,7 @@
   <img src="https://streak-stats.demolab.com/?user=Svania-riCw&hide_border=true&background=00000000&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8&sideLabels=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-## `contribution_snake`
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -64,9 +58,7 @@
   </picture>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-## `connect`
+## Connect
 
 - Email: `limx2024@shanghaitech.edu.cn`
 
