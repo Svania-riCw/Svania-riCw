@@ -40,10 +40,6 @@
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Svania-riCw&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&text_color=64748B&icon_color=22C55E&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svania-riCw&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=64748B" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Svania-riCw&hide_border=true&background=00000000&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8&sideLabels=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak" />
